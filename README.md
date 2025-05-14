@@ -25,6 +25,3 @@ A classic 2D brick-breaking arcade game made in Unity. Smash through bricks, rac
 2. Open the project in Unity  
 3. Click **Play** or build for PC/Web/Mobile
 
-## 👾 Author
-
-Made by [Your Name] – Brick by brick!
